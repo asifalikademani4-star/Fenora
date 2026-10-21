@@ -1,0 +1,11 @@
+{
+  "English-only UI text": true,
+  "Local offline storage": true,
+  "Backup JSON and CSV export": true,
+  "Backup import": true,
+  "Investment categories": true,
+  "Navigation sections": true,
+  "Android file save and picker bridge": true,
+  "GitHub Actions build workflow": true,
+  "Physical-device testing": "pending"
+}
